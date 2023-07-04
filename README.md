@@ -3,7 +3,7 @@ ______Dataset Description________
 
 **Hospitalization details.xlsx
 
-Variables                         Description
+Variables                          Description
 Customer ID                Unique identification for beneficiary(primary)
 year                                   Year of birth
 month                                  Month of birth
